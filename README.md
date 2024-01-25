@@ -9,4 +9,4 @@
     - Blocks gray with stripes are destructible blocks.
     - The bomb lasts around 2.5 seconds to explode.
     - NPCs follow a specific pattern that can vary.
-
+    - First stage has a timer of 200 seconds.
