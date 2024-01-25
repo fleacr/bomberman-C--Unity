@@ -1,7 +1,7 @@
 # bomberman-C#--Unity
 
 
-## Important points to consider.
+## Important points to consider about how bomberman works.
 
     - The Bomberman map is 11 rows by 29 columns.
     - Bombs explode with a one-tile radius.
